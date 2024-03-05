@@ -1,3 +1,4 @@
 git is a distributed version control software.
 Git is free software.
 Jerry is a cute boy.
+记录一下：添加了一个新文件，名字叫files_1.
